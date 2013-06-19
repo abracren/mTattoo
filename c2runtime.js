@@ -35223,180 +35223,35 @@ false,false,9733146001977147
 			0,
 			null,
 			false,
-			5336202097507211,
+			5284314444401164,
 			[
 			[
-				-1,
-				cr.system_object.prototype.cnds.Every,
+				18,
+				cr.plugins_.Touch.prototype.cnds.IsTouchingObject,
 				null,
 				0,
 				false,
 				false,
 				false,
-				2957746206439836
-				,[
-				[
-					0,
-					[
-						1,
-						0.3
-					]
-				]
-				]
-			]
-,			[
-				27,
-				cr.plugins_.Sprite.prototype.cnds.IsOverlapping,
-				null,
-				0,
-				false,
-				false,
-				false,
-				7842831741233043
+				2338181685333872
 				,[
 				[
 					4,
-					27
+					20
 				]
 				]
 			]
 			],
 			[
 			[
-				7,
-				cr.plugins_.Function.prototype.acts.CallFunction,
-				null,
-				1027349245730182
+				5,
+				cr.behaviors.EightDir.prototype.acts.SimulateControl,
+				"8Direction",
+				3853088819023672
 				,[
 				[
-					1,
-					[
-						2,
-						"escapar"
-					]
-				]
-,				[
-					13,
-				]
-				]
-			]
-			]
-			,[
-			[
-				0,
-				null,
-				false,
-				5189466248849474,
-				[
-				],
-				[
-				]
-			]
-,			[
-				0,
-				null,
-				false,
-				2496591909342968,
-				[
-				],
-				[
-				]
-			]
-			]
-		]
-,		[
-			0,
-			null,
-			false,
-			3846909035632803,
-			[
-			[
-				-1,
-				cr.system_object.prototype.cnds.EveryTick,
-				null,
-				0,
-				false,
-				false,
-				false,
-				7186621794926661
-			]
-			],
-			[
-			]
-			,[
-			[
-				0,
-				null,
-				false,
-				8667021752648102,
-				[
-				[
-					18,
-					cr.plugins_.Touch.prototype.cnds.IsTouchingObject,
-					null,
-					0,
-					false,
-					false,
-					false,
-					8282698432567516
-					,[
-					[
-						4,
-						20
-					]
-					]
-				]
-				],
-				[
-				[
-					5,
-					cr.behaviors.EightDir.prototype.acts.SimulateControl,
-					"8Direction",
-					8370254620308708
-					,[
-					[
-						3,
-						1
-					]
-					]
-				]
-				]
-			]
-,			[
-				0,
-				null,
-				false,
-				6857658715261577,
-				[
-				[
-					18,
-					cr.plugins_.Touch.prototype.cnds.IsTouchingObject,
-					null,
-					0,
-					false,
-					false,
-					false,
-					6755982728309131
-					,[
-					[
-						4,
-						19
-					]
-					]
-				]
-				],
-				[
-				[
-					5,
-					cr.behaviors.EightDir.prototype.acts.SimulateControl,
-					"8Direction",
-					8928797336667878
-					,[
-					[
-						3,
-						0
-					]
-					]
+					3,
+					1
 				]
 				]
 			]
@@ -35406,10 +35261,38 @@ false,false,9733146001977147
 			0,
 			null,
 			false,
-			5284314444401164,
+			9733024420780939,
 			[
+			[
+				18,
+				cr.plugins_.Touch.prototype.cnds.IsTouchingObject,
+				null,
+				0,
+				false,
+				false,
+				false,
+				7790449000607644
+				,[
+				[
+					4,
+					19
+				]
+				]
+			]
 			],
 			[
+			[
+				5,
+				cr.behaviors.EightDir.prototype.acts.SimulateControl,
+				"8Direction",
+				4944523101999088
+				,[
+				[
+					3,
+					0
+				]
+				]
+			]
 			]
 		]
 		]
