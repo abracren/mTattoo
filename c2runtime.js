@@ -34424,177 +34424,6 @@ false,false,9733146001977147
 				]
 				]
 			]
-,			[
-				0,
-				null,
-				false,
-				5943723868892999,
-				[
-				[
-					5,
-					cr.plugins_.Sprite.prototype.cnds.IsOverlapping,
-					null,
-					0,
-					false,
-					false,
-					false,
-					4518792704653539
-					,[
-					[
-						4,
-						27
-					]
-					]
-				]
-,				[
-					-1,
-					cr.system_object.prototype.cnds.CompareBetween,
-					null,
-					0,
-					false,
-					false,
-					false,
-					4978835659621626
-					,[
-					[
-						0,
-						[
-							23,
-							"conta"
-						]
-					]
-,					[
-						0,
-						[
-							0,
-							0
-						]
-					]
-,					[
-						0,
-						[
-							0,
-							30
-						]
-					]
-					]
-				]
-				],
-				[
-				]
-				,[
-				[
-					0,
-					null,
-					false,
-					1946867643398752,
-					[
-					[
-						-1,
-						cr.system_object.prototype.cnds.CompareVar,
-						null,
-						0,
-						false,
-						false,
-						false,
-						3404787007773758
-						,[
-						[
-							11,
-							"side"
-						]
-,						[
-							8,
-							0
-						]
-,						[
-							7,
-							[
-								2,
-								"right"
-							]
-						]
-						]
-					]
-					],
-					[
-					[
-						7,
-						cr.plugins_.Function.prototype.acts.CallFunction,
-						null,
-						7861278445132542
-						,[
-						[
-							1,
-							[
-								2,
-								"escaparR"
-							]
-						]
-,						[
-							13,
-						]
-						]
-					]
-					]
-				]
-,				[
-					0,
-					null,
-					false,
-					3429374882832717,
-					[
-					[
-						-1,
-						cr.system_object.prototype.cnds.CompareVar,
-						null,
-						0,
-						false,
-						false,
-						false,
-						2260417790311489
-						,[
-						[
-							11,
-							"side"
-						]
-,						[
-							8,
-							0
-						]
-,						[
-							7,
-							[
-								2,
-								"left"
-							]
-						]
-						]
-					]
-					],
-					[
-					[
-						7,
-						cr.plugins_.Function.prototype.acts.CallFunction,
-						null,
-						8373474405353239
-						,[
-						[
-							1,
-							[
-								2,
-								"escaparL"
-							]
-						]
-,						[
-							13,
-						]
-						]
-					]
-					]
-				]
-				]
-			]
 			]
 		]
 ,		[
@@ -34998,25 +34827,6 @@ false,false,9733146001977147
 				]
 			]
 ,			[
-				-1,
-				cr.system_object.prototype.acts.SubVar,
-				null,
-				9163117853611954
-				,[
-				[
-					11,
-					"uma"
-				]
-,				[
-					7,
-					[
-						0,
-						2
-					]
-				]
-				]
-			]
-,			[
 				36,
 				cr.plugins_.Sprite.prototype.acts.SetPosToObject,
 				null,
@@ -35365,18 +35175,6 @@ false,false,9733146001977147
 				]
 			]
 ,			[
-				37,
-				cr.plugins_.c2canvas.prototype.acts.PasteObject,
-				null,
-				7195924653961727
-				,[
-				[
-					4,
-					22
-				]
-				]
-			]
-,			[
 				36,
 				cr.plugins_.Sprite.prototype.acts.SetPosToObject,
 				null,
@@ -35392,6 +35190,18 @@ false,false,9733146001977147
 						0,
 						0
 					]
+				]
+				]
+			]
+,			[
+				37,
+				cr.plugins_.c2canvas.prototype.acts.PasteObject,
+				null,
+				7195924653961727
+				,[
+				[
+					4,
+					22
 				]
 				]
 			]
