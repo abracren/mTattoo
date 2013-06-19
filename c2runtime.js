@@ -33240,20 +33240,6 @@ cr.getProjectModel = function() { return [
 				]
 			]
 ,			[
-				[158, 263, 0, 534, 364, 0, 0, 1, 0, 0, 0, 0, []],
-				37,
-				892,
-				[
-				],
-				[
-				],
-				[
-					0,
-					0,
-					0
-				]
-			]
-,			[
 				[90, 145, 0, 92, 84, 0, 0, 1, 0.5, 0.5, 0, 0, []],
 				38,
 				893,
@@ -34815,14 +34801,14 @@ false,false,9733146001977147
 				]
 			]
 ,			[
-				37,
-				cr.plugins_.c2canvas.prototype.acts.PasteObject,
+				22,
+				cr.plugins_.Sprite.prototype.acts.SetVisible,
 				null,
-				2637104663428763
+				9792549348302503
 				,[
 				[
-					4,
-					22
+					3,
+					1
 				]
 				]
 			]
@@ -34930,6 +34916,18 @@ false,false,9733146001977147
 			]
 ,			[
 				22,
+				cr.plugins_.Sprite.prototype.acts.SetVisible,
+				null,
+				9625344713282994
+				,[
+				[
+					3,
+					1
+				]
+				]
+			]
+,			[
+				22,
 				cr.plugins_.Sprite.prototype.acts.SetSize,
 				null,
 				1226263853730801
@@ -34991,18 +34989,6 @@ false,false,9733146001977147
 						]
 						]
 					]
-				]
-				]
-			]
-,			[
-				37,
-				cr.plugins_.c2canvas.prototype.acts.PasteObject,
-				null,
-				7096333719037328
-				,[
-				[
-					4,
-					22
 				]
 				]
 			]
@@ -35110,6 +35096,18 @@ false,false,9733146001977147
 			]
 ,			[
 				22,
+				cr.plugins_.Sprite.prototype.acts.SetVisible,
+				null,
+				6194188143208343
+				,[
+				[
+					3,
+					1
+				]
+				]
+			]
+,			[
+				22,
 				cr.plugins_.Sprite.prototype.acts.SetSize,
 				null,
 				2211690499083498
@@ -35190,18 +35188,6 @@ false,false,9733146001977147
 						0,
 						0
 					]
-				]
-				]
-			]
-,			[
-				37,
-				cr.plugins_.c2canvas.prototype.acts.PasteObject,
-				null,
-				7195924653961727
-				,[
-				[
-					4,
-					22
 				]
 				]
 			]
