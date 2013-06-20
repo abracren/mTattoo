@@ -19880,6 +19880,67 @@ cr.getProjectModel = function() { return [
 		6157753153488881,
 		[]
 	]
+,	[
+		"t39",
+		cr.plugins_.c2canvas,
+		false,
+		[],
+		0,
+		0,
+		["images/canvas2.png", 169, 3],
+		null,
+		[
+		],
+		false,
+		false,
+		2470021850293532,
+		[]
+	]
+,	[
+		"t40",
+		cr.plugins_.c2canvas,
+		false,
+		[],
+		0,
+		0,
+		["images/canvas3.png", 169, 3],
+		null,
+		[
+		],
+		false,
+		false,
+		7740115581153225,
+		[]
+	]
+,	[
+		"t41",
+		cr.plugins_.Sprite,
+		false,
+		[],
+		0,
+		0,
+		null,
+		[
+			[
+			"Default",
+			5,
+			false,
+			1,
+			0,
+			false,
+			4593973672331465,
+			[
+				["images/sprite10-sheet0.png", 156, 0, 0, 256, 256, 1, 0.5, 0.5,[],[],1]
+			]
+			]
+		],
+		[
+		],
+		false,
+		false,
+		4418843232810713,
+		[]
+	]
 	],
 	[
 	],
@@ -19893,24 +19954,6 @@ cr.getProjectModel = function() { return [
 		5251087709812148,
 		[
 		[
-			"Layer 3",
-			0,
-			5271995717283973,
-			true,
-			[255, 255, 255],
-			true,
-			1,
-			1,
-			1,
-			false,
-			1,
-			0,
-			0,
-			[
-			],
-			[			]
-		]
-,		[
 			"Layer 0",
 			1,
 			361357626870331,
@@ -19961,27 +20004,6 @@ cr.getProjectModel = function() { return [
 					"Default",
 					0,
 					1
-				]
-			]
-,			[
-				[590, 737, 0, 542, 306, 0, 0, 1, 0, 0, 0, 0, []],
-				9,
-				8,
-				[
-				],
-				[
-				],
-				[
-					"",
-					"",
-					"",
-					1,
-					1,
-					1,
-					0,
-					3,
-					1,
-					""
 				]
 			]
 ,			[
@@ -20048,9 +20070,9 @@ cr.getProjectModel = function() { return [
 			[			]
 		]
 ,		[
-			"Layer 1",
+			"Layer 4",
 			2,
-			2793723335383043,
+			4780722590154664,
 			true,
 			[255, 255, 255],
 			true,
@@ -20063,9 +20085,24 @@ cr.getProjectModel = function() { return [
 			0,
 			[
 			[
-				[-68, 73, 0, 802, 626, 0, 0, 1, 0, 0, 0, 0, []],
-				38,
-				892,
+				[1000, 328, 0, 2, 2, 0, 0, 1, 0.5, 0.5, 0, 0, []],
+				37,
+				893,
+				[
+				],
+				[
+				],
+				[
+					0,
+					"Default",
+					0,
+					1
+				]
+			]
+,			[
+				[192, 257, 0, 374, 414, 0, 0, 1, 0, 0, 0, 0, []],
+				40,
+				8,
 				[
 				],
 				[
@@ -20080,8 +20117,26 @@ cr.getProjectModel = function() { return [
 			[			]
 		]
 ,		[
-			"Layer 2",
+			"Layer 1",
 			3,
+			2793723335383043,
+			true,
+			[255, 255, 255],
+			true,
+			1,
+			1,
+			1,
+			false,
+			1,
+			0,
+			0,
+			[
+			],
+			[			]
+		]
+,		[
+			"Layer 2",
+			4,
 			2413452452609832,
 			true,
 			[255, 255, 255],
@@ -33253,21 +33308,6 @@ cr.getProjectModel = function() { return [
 					1
 				]
 			]
-,			[
-				[1000, 328, 0, 2, 2, 0, 0, 1, 0.5, 0.5, 0, 0, []],
-				37,
-				893,
-				[
-				],
-				[
-				],
-				[
-					0,
-					"Default",
-					0,
-					1
-				]
-			]
 			],
 			[			]
 		]
@@ -33532,28 +33572,6 @@ false,false,9733146001977147
 				]
 			]
 ,			[
-				6,
-				cr.plugins_.TextBox.prototype.acts.SetText,
-				null,
-				5338934432182616
-				,[
-				[
-					1,
-					[
-						10,
-						[
-							2,
-							""
-						]
-						,[
-							23,
-							"dialPos"
-						]
-					]
-				]
-				]
-			]
-,			[
 				5,
 				cr.plugins_.Sprite.prototype.acts.SetAnim,
 				null,
@@ -33746,31 +33764,6 @@ false,false,9733146001977147
 							]
 							]
 						]
-						]
-					]
-				]
-				]
-			]
-,			[
-				9,
-				cr.plugins_.TextBox.prototype.acts.SetText,
-				null,
-				3764605480804473
-				,[
-				[
-					1,
-					[
-						10,
-						[
-							2,
-							""
-						]
-						,[
-							20,
-							25,
-							cr.plugins_.Arr.prototype.exps.Height,
-							false,
-							null
 						]
 					]
 				]
@@ -34940,7 +34933,7 @@ false,false,9733146001977147
 				]
 			]
 ,			[
-				38,
+				40,
 				cr.plugins_.c2canvas.prototype.acts.PasteObject,
 				null,
 				5530969490887336
