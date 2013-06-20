@@ -19903,7 +19903,7 @@ cr.getProjectModel = function() { return [
 		[],
 		0,
 		0,
-		["images/canvas3.png", 169, 3],
+		["images/canvas3.png", 156, 1],
 		null,
 		[
 		],
@@ -19959,7 +19959,7 @@ cr.getProjectModel = function() { return [
 			361357626870331,
 			true,
 			[255, 255, 255],
-			false,
+			true,
 			1,
 			1,
 			1,
